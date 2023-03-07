@@ -39,7 +39,7 @@ import java.util.Random;
             // Create the components
             titleLabel = new JLabel("Fortune Teller", JLabel.CENTER);
             titleLabel.setFont(new Font("Arial", Font.BOLD, 48));
-            ImageIcon icon = new ImageIcon("fortune-teller.png");
+            ImageIcon icon = new ImageIcon("fortune-teller.jpg");
             titleLabel.setIcon(icon);
             titleLabel.setVerticalTextPosition(JLabel.BOTTOM);
             titleLabel.setHorizontalTextPosition(JLabel.CENTER);
